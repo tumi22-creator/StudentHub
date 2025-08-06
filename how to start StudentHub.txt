@@ -1,4 +1,0 @@
-C:\Users\Tumelo Phale\myprojects\StudentHub\StudyHub>npm start
-
-> studyhub@1.0.0 start
-> expo start
